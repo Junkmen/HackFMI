@@ -1,0 +1,510 @@
+Untitled
+- Delay -
+active: false
+- Duration - 
+lowMin: 1000.0
+lowMax: 1000.0
+- Count - 
+min: 0
+max: 25
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 50.0
+highMax: 50.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 250.0
+highMax: 250.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 128.0
+highMax: 128.0
+relative: false
+scalingCount: 10
+scaling0: 0.0
+scaling1: 0.5686275
+scaling2: 0.84313726
+scaling3: 0.64705884
+scaling4: 0.627451
+scaling5: 0.39215687
+scaling6: 0.1764706
+scaling7: 0.33333334
+scaling8: 0.3529412
+scaling9: 0.019607844
+timelineCount: 10
+timeline0: 0.0
+timeline1: 0.15753424
+timeline2: 0.21917808
+timeline3: 0.34246576
+timeline4: 0.45890412
+timeline5: 0.5068493
+timeline6: 0.60958904
+timeline7: 0.7191781
+timeline8: 0.82191783
+timeline9: 1.0
+- Velocity - 
+active: false
+- Angle - 
+active: false
+- Rotation - 
+active: true
+lowMin: -250.0
+lowMax: 250.0
+highMin: 250.0
+highMax: -250.0
+relative: false
+scalingCount: 7
+scaling0: 0.50980395
+scaling1: 1.0
+scaling2: 0.5686275
+scaling3: 0.0
+scaling4: 0.8039216
+scaling5: 0.627451
+scaling6: 0.49019608
+timelineCount: 7
+timeline0: 0.0
+timeline1: 0.32876712
+timeline2: 0.44520548
+timeline3: 0.5205479
+timeline4: 0.65068495
+timeline5: 0.84246576
+timeline6: 0.98630136
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 18
+colors0: 1.0
+colors1: 0.0
+colors2: 0.0
+colors3: 1.0
+colors4: 0.9529412
+colors5: 0.0
+colors6: 0.12156863
+colors7: 1.0
+colors8: 0.0
+colors9: 0.047058824
+colors10: 0.8039216
+colors11: 1.0
+colors12: 0.76862746
+colors13: 1.0
+colors14: 0.047058824
+colors15: 1.0
+colors16: 0.047058824
+colors17: 0.9098039
+timelineCount: 6
+timeline0: 0.0
+timeline1: 0.16696589
+timeline2: 0.30520648
+timeline3: 0.497307
+timeline4: 0.7935368
+timeline5: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 1.0
+scaling1: 0.84210527
+scaling2: 0.61403507
+scaling3: 0.47368422
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.4520548
+timeline2: 0.6438356
+timeline3: 0.9041096
+- Options - 
+attached: false
+continuous: true
+aligned: true
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+D:\Android\Resources\Game Drawings\The Genius Circle\polygon.png
+
+
+Untitled
+- Delay -
+active: false
+- Duration - 
+lowMin: 1000.0
+lowMax: 1000.0
+- Count - 
+min: 0
+max: 25
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 50.0
+highMax: 50.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 250.0
+highMax: 250.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 128.0
+highMax: 128.0
+relative: false
+scalingCount: 10
+scaling0: 0.0
+scaling1: 0.5686275
+scaling2: 0.84313726
+scaling3: 0.64705884
+scaling4: 0.627451
+scaling5: 0.39215687
+scaling6: 0.1764706
+scaling7: 0.33333334
+scaling8: 0.3529412
+scaling9: 0.019607844
+timelineCount: 10
+timeline0: 0.0
+timeline1: 0.15753424
+timeline2: 0.21917808
+timeline3: 0.34246576
+timeline4: 0.45890412
+timeline5: 0.5068493
+timeline6: 0.60958904
+timeline7: 0.7191781
+timeline8: 0.82191783
+timeline9: 1.0
+- Velocity - 
+active: false
+- Angle - 
+active: false
+- Rotation - 
+active: true
+lowMin: -250.0
+lowMax: 250.0
+highMin: 250.0
+highMax: -250.0
+relative: false
+scalingCount: 7
+scaling0: 0.50980395
+scaling1: 1.0
+scaling2: 0.5686275
+scaling3: 0.0
+scaling4: 0.8039216
+scaling5: 0.627451
+scaling6: 0.49019608
+timelineCount: 7
+timeline0: 0.0
+timeline1: 0.32876712
+timeline2: 0.44520548
+timeline3: 0.5205479
+timeline4: 0.65068495
+timeline5: 0.84246576
+timeline6: 0.98630136
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 18
+colors0: 1.0
+colors1: 0.0
+colors2: 0.0
+colors3: 1.0
+colors4: 0.9529412
+colors5: 0.0
+colors6: 0.12156863
+colors7: 1.0
+colors8: 0.0
+colors9: 0.047058824
+colors10: 0.8039216
+colors11: 1.0
+colors12: 0.76862746
+colors13: 1.0
+colors14: 0.047058824
+colors15: 1.0
+colors16: 0.047058824
+colors17: 0.9098039
+timelineCount: 6
+timeline0: 0.0
+timeline1: 0.16696589
+timeline2: 0.30520648
+timeline3: 0.497307
+timeline4: 0.7935368
+timeline5: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 1.0
+scaling1: 0.84210527
+scaling2: 0.61403507
+scaling3: 0.47368422
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.4520548
+timeline2: 0.6438356
+timeline3: 0.9041096
+- Options - 
+attached: false
+continuous: true
+aligned: true
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+D:\Android\Resources\Game Drawings\The Genius Circle\polygon.png
+
+
+Untitled
+- Delay -
+active: false
+- Duration - 
+lowMin: 1000.0
+lowMax: 1000.0
+- Count - 
+min: 0
+max: 25
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 50.0
+highMax: 50.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 250.0
+highMax: 250.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life Offset - 
+active: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 128.0
+highMax: 128.0
+relative: false
+scalingCount: 10
+scaling0: 0.0
+scaling1: 0.5686275
+scaling2: 0.84313726
+scaling3: 0.64705884
+scaling4: 0.627451
+scaling5: 0.39215687
+scaling6: 0.64705884
+scaling7: 0.33333334
+scaling8: 0.3529412
+scaling9: 0.019607844
+timelineCount: 10
+timeline0: 0.0
+timeline1: 0.15753424
+timeline2: 0.21917808
+timeline3: 0.34246576
+timeline4: 0.45890412
+timeline5: 0.5068493
+timeline6: 0.6369863
+timeline7: 0.7191781
+timeline8: 0.82191783
+timeline9: 1.0
+- Velocity - 
+active: false
+- Angle - 
+active: false
+- Rotation - 
+active: true
+lowMin: -250.0
+lowMax: 250.0
+highMin: 250.0
+highMax: -250.0
+relative: false
+scalingCount: 7
+scaling0: 0.50980395
+scaling1: 1.0
+scaling2: 0.5686275
+scaling3: 0.0
+scaling4: 0.8039216
+scaling5: 0.627451
+scaling6: 0.49019608
+timelineCount: 7
+timeline0: 0.0
+timeline1: 0.32876712
+timeline2: 0.44520548
+timeline3: 0.5205479
+timeline4: 0.65068495
+timeline5: 0.84246576
+timeline6: 0.98630136
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 18
+colors0: 1.0
+colors1: 0.0
+colors2: 0.0
+colors3: 1.0
+colors4: 0.9529412
+colors5: 0.0
+colors6: 0.12156863
+colors7: 1.0
+colors8: 0.0
+colors9: 0.047058824
+colors10: 0.8039216
+colors11: 1.0
+colors12: 0.76862746
+colors13: 1.0
+colors14: 0.047058824
+colors15: 1.0
+colors16: 0.047058824
+colors17: 0.9098039
+timelineCount: 6
+timeline0: 0.0
+timeline1: 0.16696589
+timeline2: 0.30520648
+timeline3: 0.497307
+timeline4: 0.7935368
+timeline5: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 5
+scaling0: 1.0
+scaling1: 0.84210527
+scaling2: 0.61403507
+scaling3: 0.47368422
+scaling4: 0.24561404
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.4520548
+timeline2: 0.6438356
+timeline3: 0.9041096
+timeline4: 1.0
+- Options - 
+attached: false
+continuous: true
+aligned: true
+additive: true
+behind: false
+premultipliedAlpha: false
+- Image Path -
+D:\Android\Resources\Game Drawings\The Genius Circle\polygon.png
