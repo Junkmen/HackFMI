@@ -1,6 +1,7 @@
 package xtrordinary.games.enb;
 
 
+import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
@@ -82,7 +83,7 @@ public class Object2D {
     }
 
     public void setTexture(String pathToTexture) {
-        this.texture = new TextureRegion(new Texture(pathToTexture));
+        this.texture = new TextureRegion(new Texture(Gdx.files.internal(pathToTexture)));
     }
     public void setTexture(Texture texture) {
         this.texture = new TextureRegion(texture);
